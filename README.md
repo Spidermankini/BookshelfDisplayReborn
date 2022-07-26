@@ -1,6 +1,6 @@
 # BookshelfDisplayReborn:
 
-Recompiled version of BookshelfDisplay for use on more recent game versions. Targets 1.18.2 primarily.
+Recompiled version of BookshelfDisplay for use on more recent game versions. Targets 1.18.2 primarily, developed against JDK 8.0 for compatibility but is largely untested on other game versions.
 
 # Original BookshelfDisplay Descriptor:
 
