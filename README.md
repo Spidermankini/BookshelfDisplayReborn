@@ -35,14 +35,8 @@ Feedback and bugs will likely receive minimal response as such. No new features 
 
 ## Permissions info:
 
-bookshelfdisplay.*:
-
-  description: "Grants all plugin abilities."
-  default: false
-  children:
-    bookshelfdisplay.view: true
+`bookshelfdisplay.*`:
+>Grants all plugin abilities. Defaults to false.
    
-bookshelfdisplay.view:
-
-  description: "Grants the ability to interact with bookshelves."
-  default: true
+`bookshelfdisplay.view`:
+>Grants the ability to view bookshelves by right-clicking, defaults to true
