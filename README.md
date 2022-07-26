@@ -32,3 +32,17 @@ For versions <1.18.2:
 
 This is intended to purely keep BookshelfDisplay functional with 1.17 1.18 and 1.19 but is only tested against 1.18.2 actively.
 Feedback and bugs will likely receive minimal response as such. No new features will be added at this time.
+
+## Permissions info:
+
+bookshelfdisplay.*:
+
+  description: "Grants all plugin abilities."
+  default: false
+  children:
+    bookshelfdisplay.view: true
+   
+bookshelfdisplay.view:
+
+  description: "Grants the ability to interact with bookshelves."
+  default: true
