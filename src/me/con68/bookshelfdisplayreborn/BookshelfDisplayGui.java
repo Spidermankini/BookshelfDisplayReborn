@@ -335,7 +335,7 @@ public class BookshelfDisplayGui {
     private void animateDirectoryChange() {
 
         // Get a reference to the plugin...
-        Plugin plugin = Bukkit.getPluginManager().getPlugin("BookshelfDisplay");
+        Plugin plugin = Bukkit.getPluginManager().getPlugin("BookshelfDisplayReborn");
         assert (plugin != null);
 
         interactive = false;
