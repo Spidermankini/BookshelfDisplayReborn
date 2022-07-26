@@ -1,6 +1,8 @@
-Original
+# BookshelfDisplayReborn:
 
-# BookshelfDisplay
+Recompiled version of BookshelfDisplay for use on more recent game versions. Targets 1.18.2 primarily.
+
+# Original BookshelfDisplay Descriptor:
 
 BookshelfDisplay is a SpigotMC Plugin that lets the player use bookshelves to display galleries of books.
 Visit this plugin's [SpigotMC Page](https://www.spigotmc.org/resources/bookshelfdisplay.67225/) for more information.
