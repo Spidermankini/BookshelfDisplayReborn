@@ -1,7 +1,7 @@
 main: me.con68.bookshelfdisplayreborn.BookshelfDisplayPlugin
 name: BookshelfDisplayReborn
 version: "1.0"
-api-version: "1.18"
+api-version: "1.14"
 description: Put books in bookshelves and read them, again!
 website: https://www.spigotmc.org/resources/bookshelfdisplay.67225/
 authors: [Cynadyde, con68]
