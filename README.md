@@ -1,6 +1,8 @@
 # BookshelfDisplayReborn:
 
-Recompiled version of BookshelfDisplay for use on more recent game versions. Targets 1.18.2 primarily, developed against JDK 8.0 for compatibility but is largely untested on other game versions.
+Recompiled version of BookshelfDisplay by Cynadyde for use on more recent game versions. Targets 1.18.2 primarily, developed against JDK 8.0 for compatibility but is largely untested on other game versions. 
+
+Original git repo can be found here containing versions <1.17.1, but in theory this updated version will work on all versions above 1.14 (1.17.1-1.19 has been tested): https://github.com/Cynadyde/BookshelfDisplay
 
 # Original BookshelfDisplay Descriptor:
 
@@ -15,7 +17,7 @@ Place this jar in your `plugins` folder, also.
 
 ###### (only the newest version is maintained)
 
-For versions <1.18.2:
+For versions <1.17.1:
 
 ##### For Minecraft 1.14.x through 1.16.X:
 > [BookshelfDisplay_1.16.4-0.jar](https://github.com/Cynadyde/BookshelfDisplay/raw/master/builds/BookshelfDisplay_1.16.4-0.jar)
@@ -30,7 +32,7 @@ For versions <1.18.2:
 
 ## Bugs & Feedback
 
-This is intended to purely keep BookshelfDisplay functional with 1.17 1.18 and 1.19 but is only tested against 1.18.2 actively.
+This is intended to purely keep BookshelfDisplay functional with 1.17, 1.18 and 1.19 but is only tested against 1.18.2 actively.
 Feedback and bugs will likely receive minimal response as such. No new features will be added at this time.
 
 ## Permissions info:
