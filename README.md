@@ -7,7 +7,7 @@ Original git repo can be found here containing versions <1.17.1, but in theory t
 # Original BookshelfDisplay Descriptor:
 
 BookshelfDisplay is a SpigotMC Plugin that lets the player use bookshelves to display galleries of books.
-Visit this plugin's [SpigotMC Page](https://www.spigotmc.org/resources/bookshelfdisplay.67225/) for more information.
+Visit this plugin's [SpigotMC Page](https://www.spigotmc.org/resources/bookshelfdisplayreborn.103712/) for more information.
 
 To install, simply place the jar file in your server's `plugins` folder. You will need a single dependency, 
 [ProtocolLib](https://www.spigotmc.org/resources/protocollib.1997/). (Make sure it is the latest version!) 
