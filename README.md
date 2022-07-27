@@ -17,6 +17,9 @@ Place this jar in your `plugins` folder, also.
 
 ###### (only the newest version is maintained)
 
+For versions 1.17 and up, visit the spigot page here:
+> [BookshelfDisplayReborn @ SpigotMC](https://www.spigotmc.org/resources/bookshelfdisplayreborn.103712/)
+
 For versions <1.17.1:
 
 ##### For Minecraft 1.14.x through 1.16.X:
